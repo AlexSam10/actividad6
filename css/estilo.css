@@ -1,0 +1,164 @@
+*{margin: 0; padding:0;}
+body{background-color: #ff99ff;}
+#contenedor{
+	width: 80%;
+	margin: 0 auto;
+}
+
+header{
+	background-color:#99ffcc ;
+	min-height: 180px;
+	width: 100%;
+	
+}
+#menu{
+	float: right;
+	width: 60%;
+	height: 30px;
+	border:1px solid #00994d;
+}
+#contenedorgris{
+	background-color: #e0ebeb;
+	min-height: 150px;
+	width: 100%;
+	
+}
+#iconos1{
+	float: left;
+	width: 10%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 20px 10px 200px;
+}
+#iconos2{
+	float: right;
+	width: 10%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 200px 10px 20px;
+}
+#iconos3{
+	float: left;
+	width: 10%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 20px 10px 10px;
+}
+#iconos4{
+	float: right;
+	width: 10%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 10px 10px 10px;
+
+}
+#iconos5{
+	float: left;
+	width: 10%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 10px 10px 10px;
+
+}
+#letritas1{
+	width: 63%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 0px 151px 0px 199px;
+	float: left;
+}
+#contenedorcolores{
+	background-color: #ccc;
+	width: 100%;
+	min-height: 300px;
+
+}
+#color1{
+	background-color: #cc99ff;
+	width: 50%;	
+	min-height: 300px;
+	float: left;
+}
+#color2{
+	background-color: #ff9966;
+	width: 25%;	
+	min-height: 150px;
+	float: left;
+}
+#color3{
+	background-color: #b3b3ff;
+	min-height: 150px;
+	width: 25%;
+	float:right;
+}
+#color4{
+	background-color: #d98cb3;
+	min-height: 150px;
+	width: 25%;
+	float: left;
+
+}
+#color5{
+	background-color: #ff8080;
+	min-height: 150px;
+	width: 25%;
+	float: right;
+}
+
+
+#contenedorgris2{
+	background-color: #e0ebeb;
+	min-height: 150px;
+	width: 100%;	
+}
+#letritas2{
+	width: 63%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 151px 0px 199px;
+	float: left;
+}
+#iconos6{
+	float: left;
+	width: 10%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 20px 10px 200px;
+}
+#iconos7{
+	float: right;
+	width: 10%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 200px 10px 20px;
+}
+
+#iconos8{
+	float: left;
+	width: 10%;
+	height: 60px;
+	border:1px solid #00994d;
+	margin: 10px 100px 10px 150px;
+}
+#menuin{
+	float: left;
+	width: 50%;
+	height: 30px;
+	border:1px solid #00994d;
+    margin-top: 95px;
+}
+#redes{
+	float: right;
+	width: 30%;
+	height: 30px;
+	border:1px solid #00994d;
+    margin-top: 95px;
+
+}
+
+footer{
+	background-color:#99ffcc ;
+	min-height: 130px;
+	width: 100%;
+	
+}
